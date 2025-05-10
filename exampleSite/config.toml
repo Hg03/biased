@@ -3,8 +3,8 @@
 # from a subdir of the theme
 themesDir = "../../"
 
-title = "not-much demo"
-theme = "not-much"
+title = "biased demo"
+theme = "biased"
 languageCode = "en-us"
 baseURL = "https://example.org/"
 copyright = "Sample custom notice © {year}"
@@ -50,5 +50,5 @@ showPostsSummary = true
     identifier = "github"
     name = "github"
     title = "GitHub"
-    url = "https://github.com/imgios/not-much"
+    url = "https://github.com/Hg03/biased"
     weight = 4

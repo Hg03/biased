@@ -11,7 +11,7 @@ copyright = "Sample custom notice © {year}"
 
 [markup]
   [markup.highlight]
-    style = 'dracula'
+    style = 'catpuccin'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true

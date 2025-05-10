@@ -1,7 +1,7 @@
 ---
-lead: "Basic, simple and minimal Hugo theme"
+lead: "Machine Learning Notes and Projects that you'll ❤️"
 ---
 
-This is a demo of the `not-much` theme, built with Hugo, and is intended to be trouble-free. Explore it to see what `not-much` has to offer.
+Biased is my work towards **machine learning** and sharing __algorithms__ and __projects__.
 
 💡 Check the [about page](./about) to learn more about this theme.

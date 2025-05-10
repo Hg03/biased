@@ -1,9 +1,9 @@
-name = 'not-much'
+name = 'biased'
 license = 'MIT'
 licenselink = 'https://github.com/imgios/not-much/blob/main/LICENSE'
 description = 'A Hugo theme focused on simplicity and minimalism'
 
-homepage = 'https://github.com/imgios/not-much'
+homepage = 'https://github.com/Hg03/biased'
 
 demosite = 'https://giosuesulipano.it/not-much/'
 

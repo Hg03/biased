@@ -3,7 +3,7 @@
 # from a subdir of the theme
 themesDir = "../../"
 
-title = "biased demo"
+title = "biased"
 theme = "biased"
 languageCode = "en-us"
 baseURL = "https://example.org/"

@@ -9,6 +9,7 @@ summary: We'll learn about linear regression. Simple, straight & forward.
 toc: true
 ---
 
+<!--
 ## Details
 
 {{< details summary="See the details" >}}
@@ -63,3 +64,5 @@ func main() {
 ## Instagram
 
 {{< instagram BWNjjyYFxVx >}}
+
+-->

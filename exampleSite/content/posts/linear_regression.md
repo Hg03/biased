@@ -7,6 +7,7 @@ keywords: ["linearregression", "algorithm", "ml"]
 tags: ["algorithm", "ml"]
 summary: We'll learn about linear regression. Simple, straight & forward.
 toc: true
+math: true
 ---
 
 ## Linear Regression

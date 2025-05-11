@@ -7,7 +7,8 @@ title = "biased"
 theme = "biased"
 languageCode = "en-us"
 baseURL = "https://example.org/"
-copyright = "Sample custom notice © {year}"
+copyright = "© {year} // powered by hg03/biased
+ "
 
 [markup]
   [markup.highlight]

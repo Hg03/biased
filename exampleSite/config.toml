@@ -7,8 +7,7 @@ title = "biased"
 theme = "biased"
 languageCode = "en-us"
 baseURL = "https://example.org/"
-copyright = "© {year} powered by hg03/biased
- "
+copyright = "© {year} powered by hg03/biased"
 
 [markup]
   [markup.highlight]

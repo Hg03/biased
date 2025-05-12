@@ -11,7 +11,7 @@ copyright = "© {year} "
 
 [markup]
   [markup.highlight]
-    style = 'catpuccin'
+    style = 'solarized'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true

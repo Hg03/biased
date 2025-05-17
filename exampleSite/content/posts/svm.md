@@ -1,4 +1,14 @@
-
+---
+title: "Support Vector Machine"
+description: Sticking to basics is always mandatory.
+date: 2025-05-10
+lastmod: 2025-05-10
+keywords: ["supportvectormachine", "algorithm", "ml"]
+tags: ["algorithm", "ml"]
+summary: We'll learn about support vector classification. Simple, straight & forward.
+toc: true
+math: true
+---
 
 # Support Vector Machines (SVM)
 

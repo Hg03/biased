@@ -13,7 +13,7 @@ math: true
 # Linear Regression with Gradient Descent
 
 ## Introduction
-Linear regression is a fundamental statistical and machine learning technique used to model the relationship between a dependent variable and one or more independent variables. Gradient descent is an optimization algorithm used to find the parameters (weights) that minimize the error in the model's predictions.
+Linear regression is a fundamental statistical and machine learning technique used to model the relationship between a dependent variable and one or more independent variables.
 
 ## The Linear Model
 A linear regression model with one independent variable can be represented as:
@@ -32,6 +32,7 @@ y = b + w₁x₁ + w₂x₂ + ... + wₙxₙ
 ```
 
 ## Cost Function
+On a 
 We need a way to measure how good our model is. For linear regression, we typically use the Mean Squared Error (MSE):
 ```
 MSE = (1/n) * Σ(y_actual - y_predicted)²
@@ -40,7 +41,7 @@ MSE = (1/n) * Σ(y_actual - y_predicted)²
 This measures the average squared difference between the actual values and the predicted values.
 
 ## Gradient Descent Algorithm
-Gradient descent is an iterative optimization algorithm that:
+Gradient descent is an optimization algorithm used to find the parameters (weights) that minimize the error in the model's predictions.It is an iterative optimization algorithm that:
 1. Starts with initial values for the parameters (often set to zeros or random values)
 2. Computes the gradient (direction of steepest increase) of the cost function
 3. Takes a step in the opposite direction of the gradient (since we want to minimize the cost)

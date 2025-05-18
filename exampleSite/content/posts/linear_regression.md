@@ -31,14 +31,15 @@ For multiple independent variables, this extends to:
 y = b + w₁x₁ + w₂x₂ + ... + wₙxₙ
 ```
 
+To get the best fit line, we need to identify these parameters (weights and biases) with their optimal value through multiple iterations and eventually we'll find our best fit. 
+
 ## Cost Function
-On a 
-We need a way to measure how good our model is. For linear regression, we typically use the Mean Squared Error (MSE):
+On a journey to find the best fit line, we should know which is bad fit also hence **cost function** is a way to measure how good our model is. For linear regression, we typically use the Mean Squared Error (MSE):
 ```
 MSE = (1/n) * Σ(y_actual - y_predicted)²
 ```
 
-This measures the average squared difference between the actual values and the predicted values.
+This measures the average squared difference between the actual values and the predicted values. Using this function, we identify on our each iterating on selecting **w** and **b** and minimize the cost function. 
 
 ## Gradient Descent Algorithm
 Gradient descent is an optimization algorithm used to find the parameters (weights) that minimize the error in the model's predictions.It is an iterative optimization algorithm that:

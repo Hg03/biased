@@ -12,11 +12,11 @@ Linear Regression models the **relationship between a dependent variable yy** an
 
 For **Simple Linear Regression** (one feature):
 
-hθ(x)=θ0+θ1xh_\theta(x) = \theta_0 + \theta_1 x
+h(x) = θ₀ + θ₁·x
 
 For **Multiple Linear Regression** (multiple features):
 
-hθ(x)=θ0+θ1x1+θ2x2+⋯+θnxnh_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
+h(x) = θ₀ + θ₁·x₁ + θ₂·x₂ + ... + θₙ·xₙ
 
 Or, in vectorized form:
 

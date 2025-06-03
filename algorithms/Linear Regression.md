@@ -1,6 +1,4 @@
-# Linear Regression & Gradient Descent
-
-## Linear Regression Overview
+## Overview
 Linear regression models the relationship between dependent and independent variables using a linear equation.
 
 ### Simple Linear Regression

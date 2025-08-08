@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on biased</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on biased</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h1 id=&#34;-harish-gehlot&#34;&gt;👤 Harish Gehlot&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Data Scientist @ &lt;a href=&#34;https://hypersonix.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hypersonix&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-summary&#34;&gt;📝 Summary&lt;/h2&gt; &lt;p&gt;Results-oriented Data Scientist specializing in transforming business operations through robust Machine Learning and AI solutions. Experienced in deploying models at scale, building data pipelines, and delivering measurable impact in pricing, forecasting, and competitive intelligence for retailers and DTC brands. Strong focus on operational excellence and driving quantifiable business value.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt; &lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Tech, Computer Science — 8.8 CGPA&lt;/strong&gt;&lt;br&gt;&#xA;Shri Vaishnav Vidyapeeth Vishwavidyalaya&#xA;&lt;strong&gt;Graduation Date&lt;/strong&gt;: July 2023&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Higher Secondary — 9 CGPA&lt;/strong&gt;&lt;br&gt;&#xA;Angel Hearts Academy&#xA;&lt;strong&gt;Graduation Date&lt;/strong&gt;: June 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Data Scientist&lt;/strong&gt; @ &lt;a href=&#34;https://hypersonix.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hypersonix&lt;/a&gt; &lt;br&gt;&#xA;&lt;em&gt;Aug 2023 – Present (1 yr 10 months)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>List of Basics of DS</title>
+      <link>http://localhost:1313/posts/basics/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/basics/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ll be covering &lt;strong&gt;Data Science Basics&lt;/strong&gt;. Follow the below articles:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;probability/&#34;&gt;Probability&lt;/a&gt; &lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;statistics/&#34;&gt;Statistics&lt;/a&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
